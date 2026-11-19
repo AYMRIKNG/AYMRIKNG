@@ -7,19 +7,28 @@
 ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝
 ```
 
-```bash
-$ whoami
-aymerick ngampolo — ingénieur IA & data @ AUBERON · ECE Paris (Bachelor IA & Data)
+### ⚡ Ingénieur IA & Data @ AUBERON
+**Architectures Python · Systèmes ML · IA locale & agentique · ECE Paris (Bachelor IA & Data)**
 
-$ cat focus.txt
-→ architectures python & systèmes ML
-→ IA locale & agentique : agents vocaux temps réel, function calling, multi-agents
-→ LLM fiables : graph-RAG, cache sémantique, LLM-as-a-judge
-→ deep learning sur signaux spectroscopiques
+**agents**  
+﹂Agent vocal temps réel qui pilote un PC de bout en bout : streaming audio, function calling, fichiers, web  
+﹂Orchestration multi-agents avec Claude Code : sub-agents et skills pour automatiser des processus métier
 
-$ ping
-→ linkedin.com/in/aymerickng · Paris, FR
-```
+**LLM fiables**  
+﹂Graph-RAG + cache sémantique en amont, LLM-as-a-judge en aval pour bloquer les hallucinations  
+﹂Déploiement de LLM en local / on-premise pour garder les données sensibles en interne
+
+**deep learning & signal**  
+﹂Réseaux convolutifs pour le débruitage et la correction de ligne de base de spectres
+
+**quant**  
+﹂RISK : moteur de prédiction de marchés en Rust — ARIMA, XGBoost, LSTM servis via ONNX
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aymerickng"><img src="https://img.shields.io/badge/LinkedIn-aymerickng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Paris-France-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECE-Bachelor%20IA%20%26%20Data-1E3A8A?style=for-the-badge" />
+</p>
 
 <p align="left">
   <a href="https://github.com/AYMRIKNG">
