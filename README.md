@@ -1,16 +1,22 @@
-## Hi there 👋
+# Aymerick Ngampolo
+**AI / Data engineer · Paris · ECE** — building AI that leaves the notebook
 
-<!--
-**AYMRIKNG/AYMRIKNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**agents**  
+﹂Real-time voice agent that drives a whole PC: streaming audio, function calling, files, web  
+﹂Multi-agent workflows with Claude Code: sub-agents and skills automating business processes
 
-Here are some ideas to get you started:
+**reliable LLMs**  
+﹂Graph-RAG + semantic cache upstream, LLM-as-a-judge downstream to block hallucinations  
+﹂Local / on-prem LLM deployment to keep sensitive data in-house
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**deep learning & signal**  
+﹂CNNs for spectral denoising and baseline correction
+
+**quant**  
+﹂RISK: Rust market-forecasting engine — ARIMA, XGBoost, LSTM served via ONNX
+
+**open source**  
+﹂[floating-todo](https://github.com/AYMRIKNG/floating-todo): an always-on-top floating to-do list for Obsidian
+
+**stack:** Python · Rust · TypeScript · PostgreSQL · React / Next.js · Claude Code  
+→ [LinkedIn](https://www.linkedin.com/in/aymerickng)
