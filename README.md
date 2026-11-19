@@ -43,10 +43,6 @@
 | Repo | Description |
 |---|---|
 | [**floating-todo**](https://github.com/AYMRIKNG/floating-todo) | To-do flottante toujours au premier plan, synchronisée avec les listes de tâches des notes Obsidian |
-| [**EduShark**](https://github.com/AYMRIKNG/EduShark) | Analyseur de trames façon Wireshark qui décode et explique le réseau |
-| [**Neural_network**](https://github.com/AYMRIKNG/Neural_network) | Réseau de neurones from scratch en NumPy : forward, backprop, softmax |
-| [**pagerank**](https://github.com/AYMRIKNG/pagerank) | Algorithme PageRank de Google implémenté from scratch |
-| [**Banking_system**](https://github.com/AYMRIKNG/Banking_system) | Système bancaire en COBOL : comptes, transactions, soldes |
 
 ---
 
