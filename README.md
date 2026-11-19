@@ -1,52 +1,64 @@
-# Aymerick Davy Ngampolo
----
+<div align="center">
 
-[ayone.framer.ai](https://ayone.framer.ai)
----
+```
+ █████╗ ██╗   ██╗███╗   ███╗███████╗██████╗ ██╗ ██████╗██╗  ██╗
+██╔══██╗╚██╗ ██╔╝████╗ ████║██╔════╝██╔══██╗██║██╔════╝██║ ██╔╝
+███████║ ╚████╔╝ ██╔████╔██║█████╗  ██████╔╝██║██║     █████╔╝
+██╔══██║  ╚██╔╝  ██║╚██╔╝██║██╔══╝  ██╔══██╗██║██║     ██╔═██╗
+██║  ██║   ██║   ██║ ╚═╝ ██║███████╗██║  ██║██║╚██████╗██║  ██╗
+╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝
+```
 
-### Ingénieur IA & Data @ AUBERON
-**Architectures Python · Systèmes ML · IA locale & agentique · ECE Paris (Bachelor IA & Data)**
+<sub><em>
+Je construis des IA qui sortent du notebook pour agir dans le monde réel.<br />
+Agents qui agissent vraiment, LLM fiables là où l'erreur coûte cher, et un pied dans la finance.
+</em></sub>
 
-**agents**  
-﹂Agent vocal temps réel qui pilote un PC de bout en bout : streaming audio, function calling, fichiers, web  
-﹂Orchestration multi-agents avec Claude Code : sub-agents et skills pour automatiser des processus métier
+**[linkedin.com/in/aymerickng →](https://www.linkedin.com/in/aymerickng)**
 
-**LLM fiables**  
-﹂Graph-RAG + cache sémantique en amont, LLM-as-a-judge en aval pour bloquer les hallucinations  
-﹂Déploiement de LLM en local / on-premise pour garder les données sensibles en interne
-
-**deep learning & signal**  
-﹂Réseaux convolutifs pour le débruitage et la correction de ligne de base de spectres
-
-**quant**  
-﹂RISK : moteur de prédiction de marchés en Rust — ARIMA, XGBoost, LSTM servis via ONNX
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aymerickng"><img src="https://img.shields.io/badge/LinkedIn-aymerickng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Paris-France-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECE-Bachelor%20IA%20%26%20Data-1E3A8A?style=for-the-badge" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/AYMRIKNG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A78BFA&vCenter=true&width=600&lines=%3E+building+AI+that+leaves+the+notebook;%3E+local+%26+agentic+AI;%3E+graph-RAG+%2B+LLM-as-a-judge" alt="Typing SVG" />
-  </a>
-</p>
+</div>
 
 ---
 
-### `open source`
+## Now
 
-| Repo | Description |
+ia & data<br>
+﹂**Ingénieur IA & Data @ AUBERON** · alternance depuis sept. 2026 · Paris<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂agent vocal temps réel qui pilote un PC de bout en bout : streaming audio, function calling, fichiers, web<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂orchestration multi-agents avec Claude Code : sub-agents et skills pour automatiser des processus métier<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂graph-RAG + cache sémantique en amont, LLM-as-a-judge en aval pour bloquer les hallucinations<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂LLM déployés en local / on-premise pour garder les données sensibles en interne<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂réseaux convolutifs pour le débruitage et la correction de ligne de base de spectres<br>
+﹂**ECE Paris** · Bachelor IA & Data<br>
+
+quant<br>
+﹂**RISK** : moteur de prédiction de marchés en Rust<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂ARIMA/SARIMA, XGBoost, Random Forest, LSTM entraînés en Python et servis en Rust via ONNX<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂infra temps réel : PostgreSQL, TimescaleDB, Redis
+
+---
+
+## Open Source
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AYMRIKNG/floating-todo"><b>floating-todo</b></a><br />
+      <sub>To-do flottante toujours au premier plan, synchronisée avec les listes de tâches d'Obsidian</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=obsidian%20%7C%20productivity&labelColor=a855f7&color=111827" alt="focus obsidian productivity" /><br />
+      <img src="https://img.shields.io/github/stars/AYMRIKNG/floating-todo?style=flat-square&label=stars&color=f59e0b" alt="stars" />
+      <img src="https://img.shields.io/github/forks/AYMRIKNG/floating-todo?style=flat-square&label=forks&color=60a5fa" alt="forks" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Highlights
+
+| Highlight | Detail |
 |---|---|
-| [**floating-todo**](https://github.com/AYMRIKNG/floating-todo) | To-do flottante toujours au premier plan, synchronisée avec les listes de tâches des notes Obsidian |
-
----
-
-### `stats`
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AYMRIKNG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYMRIKNG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYMRIKNG&theme=tokyonight&hide_border=true" />
+| **Ex-Fullstack @ Ecobank** | Création d'Ecoreport : temps par reporting réglementaire divisé par 6 (60 → 10 min), 0 perte de données sur les pipelines Calypso |
+| **Freelance @ DCAMTECH** | Sites, boutiques Shopify et SaaS pour startups et PME ; −40 % de temps de chargement en moyenne |
+| **Formation** | ECE Paris (Bachelor IA & Data) · Python for AI, Harvard edX · BTS SIO, ITIC Paris |
+| **Hors écran** | Basket en Pré-Nationale |
