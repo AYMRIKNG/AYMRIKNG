@@ -14,7 +14,7 @@ Je construis des IA qui sortent du notebook pour agir dans le monde réel.<br />
 Agents qui agissent vraiment, LLM fiables là où l'erreur coûte cher, et un pied dans la finance.
 </em></sub>
 
-**[linkedin.com/in/aymerickng →](https://www.linkedin.com/in/aymerickng)**
+[https://ayone.framer.ai →](https://ayone.framer.ai/)
 
 </div>
 
