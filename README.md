@@ -1,13 +1,10 @@
-<div align="center">
+# Aymerick Davy Ngampolo
 
-```
- █████╗ ██╗   ██╗███╗   ███╗███████╗██████╗ ██╗ ██████╗██╗  ██╗
-██╔══██╗╚██╗ ██╔╝████╗ ████║██╔════╝██╔══██╗██║██╔════╝██║ ██╔╝
-███████║ ╚████╔╝ ██╔████╔██║█████╗  ██████╔╝██║██║     █████╔╝
-██╔══██║  ╚██╔╝  ██║╚██╔╝██║██╔══╝  ██╔══██╗██║██║     ██╔═██╗
-██║  ██║   ██║   ██║ ╚═╝ ██║███████╗██║  ██║██║╚██████╗██║  ██╗
-╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝
-```
+<p align="center">
+  <img width="300" alt="Aymerick Ngampolo" src="https://github.com/user-attachments/assets/0fa1e77e-b7c0-4b1b-9110-d4d0e20571ac" />
+</p>
+
+<div align="center">
 
 <sub><em>
 Je construis des IA qui sortent du notebook pour agir dans le monde réel.<br />
@@ -58,7 +55,7 @@ quant<br>
 
 | Highlight | Detail |
 |---|---|
-| **Ex-Fullstack @ Ecobank** | Création d'Ecoreport : temps par reporting réglementaire divisé par 6 (60 → 10 min), 0 perte de données sur les pipelines Calypso |
+| **Ex-Fullstack @ Ecobank** | Création d'Ecoreport : temps par reporting réglementaire divisé par 6 (60 → 10 min), Pertes de données éliminées (−100 %) sur les pipelines Calypso |
 | **Freelance @ DCAMTECH** | Sites, boutiques Shopify et SaaS pour startups et PME ; −40 % de temps de chargement en moyenne |
 | **Formation** | ECE Paris (Bachelor IA & Data) · Python for AI, Harvard edX · BTS SIO, ITIC Paris |
 | **Hors écran** | Basket en Pré-Nationale |
