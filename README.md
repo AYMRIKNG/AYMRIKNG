@@ -40,6 +40,13 @@ quant<br>
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/AYMRIKNG/pullreel"><b>pullreel</b></a><br />
+      <sub>Transforme ton git diff en GIF de démo cinématique pour ta pull request · local-first, Ollama, une seule commande · <code>uvx pullreel demo</code></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=dev%20tools%20%7C%20local%20LLM&labelColor=0ea5e9&color=111827" alt="focus dev tools local LLM" /><br />
+      <img src="https://img.shields.io/github/stars/AYMRIKNG/pullreel?style=flat-square&label=stars&color=f59e0b" alt="stars" />
+      <img src="https://img.shields.io/github/forks/AYMRIKNG/pullreel?style=flat-square&label=forks&color=60a5fa" alt="forks" />
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/AYMRIKNG/floating-todo"><b>floating-todo</b></a><br />
       <sub>To-do flottante toujours au premier plan, synchronisée avec les listes de tâches d'Obsidian</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=obsidian%20%7C%20productivity&labelColor=a855f7&color=111827" alt="focus obsidian productivity" /><br />
